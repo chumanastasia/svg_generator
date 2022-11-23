@@ -9,7 +9,7 @@
 1. Склонируйте репозиторий
 
 ```bash
-git clone repository_url
+git clone git@github.com:chumanastasia/svg_generator.git
 ```
 
 2. Выполните команду
